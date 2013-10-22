@@ -1,0 +1,36 @@
+Box1","Commodity","CRUDE OIL BRENT DTD","CRUDE OIL BRENT DTD","Servletdd?TYPE=TBL&ENTITY=CRUDE OIL BRENT DTD()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","gold","gold","Servletdd?TYPE=TBL&ENTITY=gold()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","silver","silver","Servletdd?TYPE=TBL&ENTITY=silver()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","platinum","platinum","Servletdd?TYPE=TBL&ENTITY=platinum()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","COPPER MERCHANTS","COPPER MERCHANTS","Servletdd?TYPE=TBL&ENTITY=COPPER MERCHANTS()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","CITIGROUP ORD","CITIGROUP ORD","Servletdd?TYPE=TBL&ENTITY=CITIGROUP ORD()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","WHEAT AVERAGE","WHEAT AVERAGE","Servletdd?TYPE=TBL&ENTITY=WHEAT AVERAGE()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","JOHNSON CONTROLS ORD","JOHNSON CONTROLS ORD","Servletdd?TYPE=TBL&ENTITY=JOHNSON CONTROLS ORD()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Commodity","SUGAR ISA 15 DAY AVGE","SUGAR ISA 15 DAY AVGE","Servletdd?TYPE=TBL&ENTITY=SUGAR ISA 15 DAY AVGE()[]{COMMODITY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","Australian Dollar","Australian Dollar","Servletdd?TYPE=TBL&ENTITY=AUD=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","Canadian Dollar","Canadian Dollar","Servletdd?TYPE=TBL&ENTITY=CAD=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","British Pound","British Pound","Servletdd?TYPE=TBL&ENTITY=GBP=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","","","Servletdd?TYPE=TBL&ENTITY=EUR=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","Japanese Yen","Japanese Yen","Servletdd?TYPE=TBL&ENTITY=RD-JPY=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","Russian Ruble","Russian Ruble","Servletdd?TYPE=TBL&ENTITY=RUB=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","US Dollar-Euro","US Dollar-Euro","Servletdd?TYPE=TBL&ENTITY=USDEUR=R()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","LIBOR Overnight (BBA)","LIBOR Overnight (BBA)","Servletdd?TYPE=TBL&ENTITY=USDONFSR=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","London Gold Fix AM","London Gold Fix AM","Servletdd?TYPE=TBL&ENTITY=XAUFIXAM=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Currency","London Gold Fix PM","London Gold Fix PM","Servletdd?TYPE=TBL&ENTITY=XAUFIXPM=()[]{CURRENCY}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Bond","Federal Interest Rate 7-year","Federal Interest Rate 7-year","Servletdd?TYPE=TBL&ENTITY=RIFLGFCY07_N.B()[]{BOND}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Bond","Federal Interest Rate 30-year","Federal Interest Rate 30-year","Servletdd?TYPE=TBL&ENTITY=RIFLGFCY30_N.B()[]{BOND}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Bond","Federal Interest Rate 5-year","Federal Interest Rate 5-year","Servletdd?TYPE=TBL&ENTITY=RIFLGFCY05_N.B()[]{BOND}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Bond","Federal Interest Rate 20-year","Federal Interest Rate 20-year","Servletdd?TYPE=TBL&ENTITY=RIFLGFCY20_N.B()[]{BOND}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Bond","Federal Interest Rate 3-month","Federal Interest Rate 3-month","Servletdd?TYPE=TBL&ENTITY=RIFLGFCM03_N.B()[]{BOND}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Index","S&P 600","S&P 600","Servletdd?TYPE=TBL&ENTITY=snp600()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Index","Dow Jones Industrial Avg","Dow Jones Industrial Avg","Servletdd?TYPE=TBL&ENTITY=djia30()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Index","S&P 400","S&P 400","Servletdd?TYPE=TBL&ENTITY=snp400()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Index","NASDAQ 100","NASDAQ 100","Servletdd?TYPE=TBL&ENTITY=nasdaq100()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Index","S&P 100","S&P 100","Servletdd?TYPE=TBL&ENTITY=snp100()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box1","Index","S&P 500","S&P 500","Servletdd?TYPE=TBL&ENTITY=snp500()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box2","Indicator","MAC on SNP500","MAC on SNP500","Servletdd?TYPE=IND&ENTITY=MAC()[]{SNP500}()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box2","Indicator","NH20 on SNP500, GU3 on SNP500","NH20 on SNP500, GU3 on SNP500","Servletdd?TYPE=IND&ENTITY=NH(20)[]{SNP500}, GU(3)[]{SNP500}()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box2","Indicator","MAC on NASDAQ","MAC on NASDAQ","Servletdd?TYPE=IND&ENTITY=MAC()[]{NASDAQ}()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box2","Indicator","NH20 on NASDAQ, GU3 on NASDAQ","NH20 on NASDAQ, GU3 on NASDAQ","Servletdd?TYPE=IND&ENTITY=NH(20)[]{NASDAQ}, GU(3)[]{NASDAQ}()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box2","Indicator","MAC on DJIA30","MAC on DJIA30","Servletdd?TYPE=IND&ENTITY=MAC()[]{DJIA30}()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
+Box2","Indicator","NH20 on DJIA30, GU3 on DJIA30","NH20 on DJIA30, GU3 on DJIA30","Servletdd?TYPE=IND&ENTITY=NH(20)[]{DJIA30}, GU(3)[]{DJIA30}()[]{INDEX}&START=ALL&END=NOW","BE","false","","false","false
